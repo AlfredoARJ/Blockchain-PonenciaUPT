@@ -1,0 +1,10 @@
+C:\Users\Y50\Desktop\Ponencia UPT - Julio 2019\Ponencia UPT - Julio\Blockchain_WhiteRabbit\Blockchain_WhiteRabbit\bin\x64\Debug\Blockchain_WhiteRabbit.exe.config
+C:\Users\Y50\Desktop\Ponencia UPT - Julio 2019\Ponencia UPT - Julio\Blockchain_WhiteRabbit\Blockchain_WhiteRabbit\bin\x64\Debug\Blockchain_WhiteRabbit.exe
+C:\Users\Y50\Desktop\Ponencia UPT - Julio 2019\Ponencia UPT - Julio\Blockchain_WhiteRabbit\Blockchain_WhiteRabbit\bin\x64\Debug\Blockchain_WhiteRabbit.pdb
+C:\Users\Y50\Desktop\Ponencia UPT - Julio 2019\Ponencia UPT - Julio\Blockchain_WhiteRabbit\Blockchain_WhiteRabbit\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Y50\Desktop\Ponencia UPT - Julio 2019\Ponencia UPT - Julio\Blockchain_WhiteRabbit\Blockchain_WhiteRabbit\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Y50\Desktop\Ponencia UPT - Julio 2019\Ponencia UPT - Julio\Blockchain_WhiteRabbit\Blockchain_WhiteRabbit\obj\x64\Debug\Blockchain_WhiteRabbit.csprojAssemblyReference.cache
+C:\Users\Y50\Desktop\Ponencia UPT - Julio 2019\Ponencia UPT - Julio\Blockchain_WhiteRabbit\Blockchain_WhiteRabbit\obj\x64\Debug\Blockchain_WhiteRabbit.csproj.CoreCompileInputs.cache
+C:\Users\Y50\Desktop\Ponencia UPT - Julio 2019\Ponencia UPT - Julio\Blockchain_WhiteRabbit\Blockchain_WhiteRabbit\obj\x64\Debug\Blockchain_WhiteRabbit.csproj.CopyComplete
+C:\Users\Y50\Desktop\Ponencia UPT - Julio 2019\Ponencia UPT - Julio\Blockchain_WhiteRabbit\Blockchain_WhiteRabbit\obj\x64\Debug\Blockchain_WhiteRabbit.exe
+C:\Users\Y50\Desktop\Ponencia UPT - Julio 2019\Ponencia UPT - Julio\Blockchain_WhiteRabbit\Blockchain_WhiteRabbit\obj\x64\Debug\Blockchain_WhiteRabbit.pdb
